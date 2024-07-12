@@ -1,0 +1,7 @@
+Username: ww
+ID Number: 3
+Weight: -Bitte auswählen-/-Please Select-
+Height: -Bitte auswählen-/-Please Select-
+Age: -Bitte auswählen-/-Please Select-
+Normal or corrected vision: -Bitte auswählen- / -Please Select-
+Vision Type: -Bitte auswählen- / -Please Select-
